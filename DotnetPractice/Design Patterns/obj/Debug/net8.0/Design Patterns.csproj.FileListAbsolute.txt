@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Desktop\DotnetPractice\Design Patterns\bin\Debug\net8.0\Design Patterns.exe
+C:\Users\LENOVO\OneDrive\Desktop\DotnetPractice\Design Patterns\bin\Debug\net8.0\Design Patterns.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\DotnetPractice\Design Patterns\bin\Debug\net8.0\Design Patterns.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Desktop\DotnetPractice\Design Patterns\bin\Debug\net8.0\Design Patterns.dll
+C:\Users\LENOVO\OneDrive\Desktop\DotnetPractice\Design Patterns\bin\Debug\net8.0\Design Patterns.pdb
+C:\Users\LENOVO\OneDrive\Desktop\DotnetPractice\Design Patterns\obj\Debug\net8.0\Design Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\DotnetPractice\Design Patterns\obj\Debug\net8.0\Design Patterns.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\DotnetPractice\Design Patterns\obj\Debug\net8.0\Design Patterns.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Desktop\DotnetPractice\Design Patterns\obj\Debug\net8.0\Design Patterns.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\DotnetPractice\Design Patterns\obj\Debug\net8.0\Design Patterns.sourcelink.json
+C:\Users\LENOVO\OneDrive\Desktop\DotnetPractice\Design Patterns\obj\Debug\net8.0\Design Patterns.dll
+C:\Users\LENOVO\OneDrive\Desktop\DotnetPractice\Design Patterns\obj\Debug\net8.0\refint\Design Patterns.dll
+C:\Users\LENOVO\OneDrive\Desktop\DotnetPractice\Design Patterns\obj\Debug\net8.0\Design Patterns.pdb
+C:\Users\LENOVO\OneDrive\Desktop\DotnetPractice\Design Patterns\obj\Debug\net8.0\Design Patterns.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Desktop\DotnetPractice\Design Patterns\obj\Debug\net8.0\ref\Design Patterns.dll
